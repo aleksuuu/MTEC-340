@@ -1,2 +1,2 @@
 # MTEC-340
- My repo for MTEC-340 Programming With Unity at Berklee 
+This is Alex’s repo for the Programming With Unity class at Berklee College of Music with Prof. David Cardona.
